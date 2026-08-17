@@ -13,7 +13,7 @@ Nous développons un **Réseau de Neurones Convolutionnel (CNN) *from scratch***
 
 ## 📊 Détails du Dataset & Tâche
 
-* **Source du Dataset :** [Kaggle - Ships Dataset (vinayakshanawad)](https://kaggle.com) *(Pensez à ajouter le lien exact de votre dataset ici !)*
+* **Source du Dataset :** https://www.kaggle.com/datasets/vinayakshanawad/ships-dataset
 * **Type de Données :** Images de navires.
 * **Formatage des Données :** Redimensionnement et normalisation des images.
 * **Architecture :** CNN conçu, configuré et entraîné de A à Z.
