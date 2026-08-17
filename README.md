@@ -1,5 +1,6 @@
 # IA-CNN-Ship-Detection-BMZ
 Engineering school project ; CNN built from scratch ; Classify ships pictures from any Data Base
+
 Description du Projet
 Ce notebook a pour objectif de réaliser un projet d'apprentissage automatique de bout en bout, en se concentrant sur un problème de classification d'images. Nous utiliserons le dataset 'Ships Dataset' de Kaggle et développerons un Réseau de Neurones Convolutionnel (CNN) 'from scratch' pour classer les navires.
 
